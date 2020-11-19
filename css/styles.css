@@ -1,0 +1,122 @@
+.topcontainer{
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+.pro{
+  text-decoration: underline;
+}
+body{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  margin: 0;
+}
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.top-cloud{
+position:absolute;
+top:40px;
+right: 300px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 250px;
+  bottom:300px;
+}
+a{
+  color: #11999E;
+}
+.btn{
+  color: white;
+  text-decoration: none;
+}
+.button{
+width: 35;
+height:20;
+  border: 0;
+    line-height: 2.5;
+    padding: 10px 10px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+  background-color:#66bfbf;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 11px;
+}
+p{
+  line-height: 2;
+}
+.button:hover{
+  color:#00adb5;
+}
+.middle-container{
+  padding-right: 10px;
+}
+.skill-row{
+
+  width: 50%;
+  margin: 100px auto;
+}
+.last-para{
+  margin-bottom: 50px;
+}
+.me{
+  width: 15%;
+  padding-top: 25px;
+  margin: auto;
+}
+.code-skill{
+  float:left;
+  width: 25%;
+  margin-right: 30px;
+}
+.draw-skill{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+hr{
+  height: 0;
+  border-style: dotted;
+  border-top: 0;
+  width: 5%;
+  border-color: #EAF6F9;
+  border-width: 10px;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  position: relative;
+  margin-top: 50px;
+  padding: 50px 0 0;
+}
+.footer-link{
+  color: #11999e;
+  margin-right: 50px;
+}
+.name-para{
+  color: #EAf6F6;
+  margin-bottom: 0;
+  padding-bottom: 30px;
+}
+.my-desc{
+  width: 50%;
+  margin: auto;
+  color: #50414E;
+}
